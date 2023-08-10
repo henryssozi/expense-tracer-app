@@ -1,0 +1,2 @@
+
+An expense tracker app is a digital tool designed to help individuals or businesses monitor and manage their financial transactions and spending habits. It typically offers features that enable users to record, categorize, analyze, and visualize their expenses, allowing them to gain insights into their financial health and make informed decisions about their spending. 
